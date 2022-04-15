@@ -63,7 +63,6 @@ DEFAULT_PACKAGES.tweak:=\
 	autocore \
 	block-mount \
 	default-settings-chn \
-	iptables-nft \
 	ipv6helper \
 	kmod-ipt-raw \
 	kmod-nf-nathelper \
